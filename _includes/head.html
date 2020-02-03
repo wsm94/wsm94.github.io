@@ -6,6 +6,11 @@
   <!-- Robots -->
   <meta name="robots" content="{{- page.robots | default: 'index, follow' -}}" />
   {%- unless page.canonical == false -%}<link rel="canonical" href="{{- page.url | absolute_url -}}" />{%- endunless -%}
+    
+    <!-- Favicons -->
+    <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
+
   
   <!-- Title, description, author -->
   {%- capture _page_title -%}
