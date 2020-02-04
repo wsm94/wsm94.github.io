@@ -35,7 +35,7 @@ subtitle:
 description: >- # this means to ignore newlines until "baseurl:"
   This is the personal website of Will Sinclair Marshall. About me, what I'm working on, and what interesting things I'm consuming.
 author: Will Sinclair Marshall 
-email: willsinclairmarshall@gmail.com
+email:
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
