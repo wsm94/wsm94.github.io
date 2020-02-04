@@ -6,6 +6,12 @@
   <!-- Robots -->
   <meta name="robots" content="{{- page.robots | default: 'index, follow' -}}" />
   {%- unless page.canonical == false -%}<link rel="canonical" href="{{- page.url | absolute_url -}}" />{%- endunless -%}
+    <meta name="google-site-verification" content="qsyv1Me27--8_EWVJzvyFc716iMOehnDkGNU9Kzr4IU" />
+    
+    <!-- Favicons -->
+    <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
+
   
   <!-- Title, description, author -->
   {%- capture _page_title -%}
