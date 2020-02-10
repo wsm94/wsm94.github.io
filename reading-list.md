@@ -13,3 +13,4 @@ order: 3
 ## Films
 
 ## Music
+1. The [Counter](https://open.spotify.com/playlist/37i9dQZF1DX81ZHwIgVFcs?si=ySmF2FdHSFqIGWTAxNJblA) playlist on Spotify.
